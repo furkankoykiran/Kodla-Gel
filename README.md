@@ -4,7 +4,7 @@ Bu GitHub reposu, Manisa Celal Bayar Üniversitesi Bilgisayar Programcılığı 
 
 ## Ödevler
 
-- [001 - Plinko](001%20-%20Plinko/): Plinko oyununu simüle eden bir program.
+- [001 - Plinko](001-Plinko/): Plinko oyununu simüle eden bir program.
 
 ## Nasıl Kullanılır?
 
