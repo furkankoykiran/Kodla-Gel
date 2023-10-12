@@ -18,9 +18,9 @@ for ball_number in range(1, ball_count + 1):
         move = random.choice([-0.5, 0.5]) # -0.5 sola, 0.5 sağa hareket ediyor.
         middle += move
         if move == 0.5:
-            print(f"Top {ball_number} sağa gitti.")
+            print(f"Top {ball_number} sağa gitti. Şu anda {middle} numaralı yuvada.")
         else:
-            print(f"Top {ball_number} sola gitti.")
+            print(f"Top {ball_number} sola gitti. Şu anda {middle} numaralı yuvada.")
     print(f"Top {ball_number} {int(middle)} numaralı yuvaya düştü.\n")
     positions.append(middle)
 
